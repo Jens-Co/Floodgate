@@ -27,3 +27,5 @@ provided("com.google.inject", "guice", Versions.guiceVersion)
 provided("org.yaml", "snakeyaml", Versions.snakeyamlVersion) // included in Configurate
 provided("com.velocitypowered", "velocity-api", velocityVersion)
 provided("org.apache.logging.log4j", "log4j-core", log4jVersion)
+provided("org.geysermc.geyser", "common", Versions.geyserVersion)
+provided("org.geysermc.cumulus", "cumulus", Versions.cumulusVersion)
